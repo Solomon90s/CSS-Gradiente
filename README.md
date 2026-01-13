@@ -1,6 +1,6 @@
 # CSS-Gradient
 
-Webs de css-gradiente
+Webs para crear gradientes en css
 
 1. [cssgradient.io](https://cssgradient.io/)
 2. [css-gradient](https://www.css-gradient.com/)
